@@ -1,6 +1,5 @@
 # <b>Hi there, I'm Theo Kenzo de Araújo</b> 👋
 
-
 ## About Me 🧑
 
 - 🎓 I'm a systems analysis and development student at IFTM (Brazil)
