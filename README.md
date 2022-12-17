@@ -7,7 +7,7 @@
 - 🌱 I'm currently looking to learning Flutter and backend languages
 - 📫 How to reach me: Send me a e-mail on theokenzo35@gmail.com or send me a message on my [LinkedIn](https://www.linkedin.com/in/theo-kenzo-de-araujo/) 
 
-## Somethings That I Know 📚
+## My Best Languages 📚
 
 <p align = "center">
   <a href = "https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170"> 
