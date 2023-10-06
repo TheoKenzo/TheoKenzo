@@ -4,39 +4,28 @@
 
 - 🎓 I'm a systems analysis and development student at IFTM (Brazil)
 - ✏️ I'm currently learning more languages and possibilities of career
-- 🌱 I'm currently looking to learning Flutter and backend languages
+- 🌱 I'm currently looking to learning Next.js
 - 📫 How to reach me: Send me a e-mail on theokenzo35@gmail.com or send me a message on my [LinkedIn](https://www.linkedin.com/in/theo-kenzo-de-araujo/) 
 
-## My Best Programming Languages 📚
+## My Best Technologies 📚
 
-<p align = "center">
-  <a href = "https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170"> 
-    <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"> 
-    <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"> 
-    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-  <a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
-    <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  </a>
-</p>
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+</div>
 
 ## Github Informations 🐙
 
 <div align="center">
-  <a href="https://github.com/TheoKenzo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoKenzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoKenzo&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoKenzon&theme=tokyonight)
+  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheoKenzo&theme=tokyonight)
+  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheoKenzo&theme=tokyonight)
 </div>
-
-<p align = "center">
-  <br>
-  <br>
-  <a href = "https://github.com/TheoKenzo">
-    <img src = "https://komarev.com/ghpvc/?username=TheoKenzo&style=flat-square">
-  </a>
-</p>
