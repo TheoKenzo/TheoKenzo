@@ -25,7 +25,7 @@
 ## Github Informations 🐙
 
 <div align="center">
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoKenzon&theme=tokyonight)
-  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheoKenzo&theme=tokyonight)
-  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheoKenzo&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoKenzo&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheoKenzo&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheoKenzo&theme=tokyonight)
 </div>
