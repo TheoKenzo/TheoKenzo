@@ -5,7 +5,7 @@
 - 🎓 I'm a systems analysis and development student at IFTM (Brazil)
 - ✏️ I'm currently learning more languages and possibilities of career
 - 🌱 I'm currently looking to learning Next.js
-- 📫 How to reach me: Send me a e-mail on theokenzo35@gmail.com or send me a message on my [LinkedIn](https://www.linkedin.com/in/theo-kenzo-de-araujo/)
+- 📫 How to reach me: Send me an e-mail on theokenzo35@gmail.com or send me a message on my [LinkedIn](https://www.linkedin.com/in/theo-kenzo-de-araujo/)
 
 ## My Best Technologies 📚
 
