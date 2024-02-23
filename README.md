@@ -36,6 +36,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma">
 </div>
 
+<br>
+
 ---
 
 ### Github Informations 🐙
